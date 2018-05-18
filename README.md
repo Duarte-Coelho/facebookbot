@@ -20,7 +20,7 @@ If you haven't already done so, follow the steps below to create a Salesforce co
     - API Name: MyConnectedApp
     - Contact Email: enter your email address
     - Enabled OAuth Settings: Checked
-    - Callback URL: http://localhost:8200/oauthcallback.html
+    - Callback URL: http://localhost:8200/oauthcallback.html (Change this later to the link of your Heroku app concatenated with /oauthcallback.html
     - Selected OAuth Scopes: Full Access (full)
     - Click **Save**
 
